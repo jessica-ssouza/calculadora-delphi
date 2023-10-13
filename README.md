@@ -1,2 +1,4 @@
 # CalculadoraDelphi10
-Projeto desenvolvido em Delphi Pascal 
+--Versão 1.0
+Meu primeiro projeto desenvolvido em Delphi 10 utilzando métodos de operações simples
+
